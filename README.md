@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img alt="Header Banner" src="header-gif,gif.gif" width="100%">
+  <img alt="Header Banner" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/header-gif,gif.gif" width="100%">
 </div>
 
 #
@@ -18,7 +18,7 @@
 
 #
 
-<img align="right" alt="Studying Animation" height="190px" src="study.gif.jpg">
+<img align="right" alt="Studying Animation" height="190px" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/study.gif.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
