@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=2EA44F&color=FFF)](mailto:arthursipiao@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=2EA44F&color=FFF)](https://www.linkedin.com/in/arthur-sipiao/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=2EA44F&color=FFF)](https://www.linkedin.com/in/arthur-sipi%C3%A3o-478032352/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=2EA44F&color=FFF)](https://github.com/Piao4169)
 
 <h3 align="left">My Stack ~</h3>
