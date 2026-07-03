@@ -11,9 +11,9 @@
 #
 
 <p align="center">
-  Olá! Sou o <b>Arthur de Oliveira Sipião Garcia</b>, Desenvolvedor de Software.<br>
+  Hello! I am <b>Arthur de Oliveira Sipião Garcia</b>,a Biotechnology student at UFRJ.<br>
   <i>"Continuous learning, endless possibilities."</i><br>
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  I am constantly updating my knowledge and seeking new challenges in the technology field. I have a passion for learning and applying that knowledge to create innovative solutions.
 </p>
 
 #
