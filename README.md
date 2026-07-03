@@ -1,40 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596be&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arthur+Sipião;I+study+Biotechnology+at+UFRJ;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Piao4169&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Sipião github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piao4169&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
+  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piao4169&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img alt="Header Banner" src="header-gif,gif.gif" width="100%">
+</div>
+
+#
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piao4169&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  Olá! Sou o <b>Arthur de Oliveira Sipião Garcia</b>, Desenvolvedor de Software.<br>
+  <i>"Continuous learning, endless possibilities."</i><br>
+  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/piao_who/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
-</div> 
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+#
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Piao4169}/count.svg" /></p> 
-<br></div>
+<img align="right" alt="Studying Animation" height="190px" src="header-gif,gif.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=2EA44F&color=FFF)](mailto:arthursipiao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=2EA44F&color=FFF)](https://www.linkedin.com/in/arthur-sipiao/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=2EA44F&color=FFF)](https://github.com/Piao4169)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="8" />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piao4169/Piao4169/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piao4169/Piao4169/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Piao4169/Piao4169/output/github-contribution-grid-snake.svg">
+</picture>
