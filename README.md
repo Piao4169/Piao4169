@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img alt="Header Banner" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/header-gif,gif.gif" width="100%">
+  <img alt="Header Banner" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/src/header-gif,gif.gif" width="100%">
 </div>
 
 #
@@ -18,7 +18,7 @@
 
 #
 
-<img align="right" alt="Studying Animation" height="190px" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/study.gif.jpg">
+<img align="right" alt="Studying Animation" height="190px" src="https://raw.githubusercontent.com/Piao4169/Piao4169/main/src/study.gif.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -30,8 +30,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="8" />
+</div>
 
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piao4169/Piao4169/output/github-contribution-grid-snake-dark.svg">
